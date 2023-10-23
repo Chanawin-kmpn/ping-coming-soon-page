@@ -311,4 +311,13 @@ a.social-link:hover i.fa-brands {
     .image-section {
         margin-top: 4.25rem;
     }
+
+    /* Footer section */
+
+    .copyright-section p {
+        --font-px: 12;
+        color: hsla(0, 0%, 61%, 1);
+    }
+
+    /* Footer section */
 }
